@@ -1,0 +1,15 @@
+input[type=text]{
+    color: antiquewhite;
+    background-color: aqua;
+
+}
+input[type=number]{
+    color: antiquewhite;
+    background-color:tomato;
+
+}
+input[type=color]{
+    color: antiquewhite;
+    background-color:mediumvioletred;
+
+}

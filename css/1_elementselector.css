@@ -1,0 +1,12 @@
+h2{
+    color: antiquewhite;
+    background-color: tomato;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+p{
+    color: white;
+    background-color: blue;
+    font-size: 20px;
+    text-transform: lowercase;
+}
