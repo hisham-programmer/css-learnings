@@ -1,0 +1,14 @@
+.cl-1{
+    border: 5px solid red;
+    
+    padding-top: 10px ;
+    padding-right: 3px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+
+}
+.cl-2{
+    border: 4px dotted rgb(133, 162, 36);
+    padding: 20px 30px 20px 300px;
+    
+}

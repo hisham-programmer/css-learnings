@@ -1,0 +1,11 @@
+#id1 {
+    border: 20px solid chocolate;
+    margin-top: 50px;
+    margin-right: 40px;
+    margin-bottom: 90px;
+    margin-left: 40px;
+}
+ #id2 {
+    border: 20px solid chocolate;
+    margin: 300px;
+ }
