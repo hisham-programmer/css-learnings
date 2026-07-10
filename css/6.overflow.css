@@ -1,0 +1,10 @@
+#id-1 p{
+    border:  solid blueviolet;
+    overflow: scroll;
+    max-height: 100px;
+}
+#id-2 p{
+     border:  solid blueviolet;
+    overflow: hidden;
+    max-height: 100px;
+}
