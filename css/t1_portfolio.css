@@ -2,6 +2,7 @@
     margin: 0;
     padding:0;
     box-sizing:border-box;
+    
 
 }
  #id1{
@@ -21,14 +22,15 @@ body{
 }
 
 .container2{
+
+   align-items: center;
     width:80%;
-    margin:10px 0;
+    margin:40px;
     padding:25px;
     background-color:white;
     border-radius:10px;
     box-shadow:0 5px 10px rgba(0,0,0,0.15);
-}
-
-.container2 h2{
+h2{
     margin-bottom:15px;
+}
 }

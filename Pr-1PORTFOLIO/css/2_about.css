@@ -1,0 +1,18 @@
+*{
+    background-color:rgb(21, 143, 156);
+}
+.container-1{
+    color: maroon;
+    a{
+    text-decoration: none;
+    color: antiquewhite;    
+    }
+    
+}
+.container-2{
+    padding-right: 0;
+    color: maroon;
+    #id1{
+        color: antiquewhite;
+    }
+}
