@@ -1,0 +1,9 @@
+.container-1{
+    position: relative;
+    left: 200px;
+    .container-2{
+        position: absolute;
+        left: 100px;
+    }
+
+}
