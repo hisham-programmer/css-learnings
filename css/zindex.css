@@ -1,0 +1,35 @@
+        div img{
+            width: 200px;
+            height: 150px;
+          
+        }
+        .c1{
+            position: relative;
+            left: 20px;
+            top: 50px;
+        }
+        .c2{
+            position: relative;
+            left: -50px;
+            top: 150px;
+
+        }
+                
+        .c3{
+            position: relative;
+            left: -100px;
+            top: 250px;          
+        }
+        .c4{
+            position: relative;
+            left: -150px;
+            top: 350px;
+        }
+        .c5{
+            position: relative;
+            left: -250px;
+            top: 450px;
+        }
+        div{
+            margin: 1;
+        }
