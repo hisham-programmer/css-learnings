@@ -1,0 +1,14 @@
+.container-1{
+    display: flex;
+    flex-wrap: wrap;
+    gap:20px;
+
+}
+.container{
+    border:solid;
+    color: antiquewhite;
+    background-color: blueviolet;
+    width: 150px;
+    height: 100px;
+
+}

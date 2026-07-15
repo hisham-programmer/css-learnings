@@ -1,0 +1,25 @@
+.c1{
+    border: solid;
+    color: antiquewhite;
+    background-color:blue;
+
+
+}
+.c2{
+    border: solid;
+    color: antiquewhite;
+    background-color: brown;
+
+
+}
+.c3{
+    border: solid;
+    color:antiquewhite ;
+    background-color: tomato;
+
+
+}
+body{
+    display:flex ;
+    align-items:center ;
+}
