@@ -1,0 +1,5 @@
+@media(orientation: landscape){
+    .body{
+        bg-color: blue;
+    }
+}

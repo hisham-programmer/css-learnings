@@ -1,0 +1,19 @@
+*{
+    background-image: url(../assets/port.png);
+    background-repeat:repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    color:antiquewhite;
+}
+ol>li{
+    color: aqua;
+}
+p{
+    color: rgb(17, 8, 37);
+}
+ul li{
+
+} 
